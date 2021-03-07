@@ -2,6 +2,7 @@
 Resources to learn Go
 
 ## How to's
+* [Create, initialize and compare structs](https://yourbasic.org/golang/structs-explained/)
 * [Making HTTP requests in Go](https://blog.logrocket.com/making-http-requests-in-go/)
 * [map[string]interface{} in Go](https://bitfieldconsulting.com/golang/map-string-interface)
 * [How to Parse a JSON Request Body in Go](https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body)
